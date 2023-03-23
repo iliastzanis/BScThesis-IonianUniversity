@@ -1,4 +1,4 @@
-# Mapography - Ionian_University
+# Mapography - Ionian University
 
 Mapography is a mobile crowdsensing application demo that was developed for my thesis in Ionian University department of Informatics. The main purpose of this app is to highlight Tourist areas through the collaboration of users. They can either create a post of a Tourist area on the app or they can search for a specific area and see the uploaded posts. The technologies that were used in order to develop this application demo was [Expo](https://expo.io/) for the front - end and [AWS Amplify](https://aws.amazon.com/amplify/) for the back - end. Here you can find the code and the dependencies that was used for the applications screens.   
 
