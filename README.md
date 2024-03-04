@@ -1,7 +1,7 @@
 # Thesis - Ionian University
 
 ## Description
-As part of my thesis at the [Department of Informatics, Ionian University](https://di.ionio.gr/en/) I developed a mobile crowdsensing application demo called Mapography. The primary objective of this application is to showcase tourist areas by leveraging user collaboration. Users can effortlessly create posts about various tourist areas or search for specific locations to view uploaded posts. 
+As part of my diploma thesis at the [Department of Informatics, Ionian University](https://di.ionio.gr/en/) I developed a mobile crowdsensing application demo called Mapography. The primary objective of this application is to showcase tourist areas by leveraging user collaboration. Users can effortlessly create posts about various tourist areas or search for specific locations to view uploaded posts. 
 
 The development of this application demo involved the utilization of cutting-edge technologies. The front-end was built using Expo, a versatile development toolset. You can learn more about Expo [here](https://expo.io/). The back-end was powered by AWS Amplify, a robust cloud development platform. You can learn more about AWS Amplify [here](https://aws.amazon.com/amplify/).
 
